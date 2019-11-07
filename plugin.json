@@ -1,0 +1,12 @@
+{
+    "ID":"202c232282f94b248ed08352f8200890",
+    "ActionKeyword":"td",
+    "Name":"Todoist for Wox",
+    "Description":"Making it easy to do basic todoist work",
+    "Author":"Grzegorz Dziedzic",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/gdziedzic/todoist-for-wox/",
+    "IcoPath":"icons\\app.png",
+    "ExecuteFileName":"main.py"
+}
